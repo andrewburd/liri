@@ -1,0 +1,148 @@
+User Command: node liri.js my-tweets
+
+LIRI Response:
+
+------------------------
+User Tweets:
+------------------------
+
+Created on: Sat Feb 17 16:16:11 +0000 2018
+Tweet content: Looking forward to speaking on blockchain @2pm on the main stage! Looking forward to seeing everyone there.… https://t.co/dceRnaTJqF
+------------------------
+Created on: Fri Feb 02 06:29:26 +0000 2018
+Tweet content: @lighteningdrake The good 'ol RTFM :-].
+------------------------
+Created on: Fri Feb 02 06:27:36 +0000 2018
+Tweet content: It's great to represent @BCBSNC as well at all of these events :-]. https://t.co/wMj67O9lkr
+------------------------
+Created on: Fri Feb 02 06:26:40 +0000 2018
+Tweet content: That's me \ :-] /!! https://t.co/G6x9nKDHbi
+------------------------
+Created on: Tue Jan 23 13:35:28 +0000 2018
+Tweet content: Yeeey I’ll be speaking there :-]! #OpenSource101 #OpenSource https://t.co/Wjuvb08DgB
+------------------------
+Created on: Sun Jan 21 02:58:32 +0000 2018
+Tweet content: RT @UNC: Name something prettier than Chapel Hill covered in snow. We'll wait. 😍 https://t.co/T6bYmwBEab
+------------------------
+Created on: Fri Jan 19 22:32:37 +0000 2018
+Tweet content: Check out this Meetup: RIoT 2018 Kickoff - Blockchain Delivers Security and Efficiency to IoT… https://t.co/Yz4fpQ9JmZ
+------------------------
+Created on: Fri Jan 19 05:24:37 +0000 2018
+Tweet content: @JenWike @JenWike that sounds great! I would love to contribute and will definitely reach back out to you about tha… https://t.co/mddJBlwkh8
+------------------------
+Created on: Thu Jan 18 16:50:55 +0000 2018
+Tweet content: Self-healing skin for robots! Seriously!? https://t.co/joXs1xYmAh
+------------------------
+Created on: Thu Jan 18 06:40:51 +0000 2018
+Tweet content: I am thrilled to be speaking at Open Source 101 on February 17th! Check out the event below and make sure to regist… https://t.co/ixvhV3fVFE
+------------------------
+Created on: Wed Jan 10 01:32:25 +0000 2018
+Tweet content: Teaching SQL injection today... couldn't resist :).
+
+https://t.co/vRyMKVZM7K
+------------------------
+Created on: Tue Jan 09 02:44:16 +0000 2018
+Tweet content: Read it, peeps...
+
+https://t.co/jzYGgCqa8h
+------------------------
+Created on: Tue Jan 02 07:32:48 +0000 2018
+Tweet content: #LifeatBlueCrossNC https://t.co/n2Po11awT9
+------------------------
+Created on: Mon Jan 01 01:02:09 +0000 2018
+Tweet content: RT @UNC: #UNC.edu top stories of 2017 | Carolina alumna Zena Cardman has ventured to some of Earth’s most unique and remote places. Now she…
+------------------------
+Created on: Fri Dec 01 13:55:06 +0000 2017
+Tweet content: Looking forward to checking this out! AWS Cloud9: https://t.co/cyqmy6olKC via @awscloud
+------------------------
+Created on: Fri Nov 24 03:16:20 +0000 2017
+Tweet content: @AR22recruiter Mashed potatoes 😊😊😊
+------------------------
+Created on: Thu Nov 16 07:09:10 +0000 2017
+Tweet content: This guy gives hilarious advice on how to deal with e-mail spammers! Watch for seriously good laugh :-).
+
+https://t.co/dFWBnoqG9H
+------------------------
+Created on: Tue Nov 14 03:03:16 +0000 2017
+Tweet content: @GinnyGhezzo Nice 🤓
+------------------------
+Created on: Tue Nov 14 01:28:03 +0000 2017
+Tweet content: @BrianLangAuthor @GinnyGhezzo You know it!!
+------------------------
+Created on: Tue Nov 14 01:19:39 +0000 2017
+Tweet content: RT @GinnyGhezzo: I had a surprise #blockchain question when presenting at Duke. Thanks to @_angrbrd I had the answer in my backpocket!! #wo…
+------------------------
+
+User Command: node liri.js my-tweets
+
+LIRI Response:
+
+------------------------
+User Tweets:
+------------------------
+
+Created on: Sun Feb 11 16:04:31 +0000 2018
+Tweet content: who likes ping pong? #letsplay
+------------------------
+Created on: Sun Feb 11 16:03:38 +0000 2018
+Tweet content: time for lunch #pizzagate
+------------------------
+Created on: Sun Feb 11 16:02:51 +0000 2018
+Tweet content: donde esta mi perro #wholetthedogout
+------------------------
+Created on: Sun Feb 11 16:02:28 +0000 2018
+Tweet content: coffee is life #basic
+------------------------
+Created on: Sun Feb 11 16:02:09 +0000 2018
+Tweet content: i have a cold #passthenyquil
+------------------------
+Created on: Sun Feb 11 16:01:50 +0000 2018
+Tweet content: tweet tweet #imabird
+------------------------
+Created on: Sun Feb 11 16:01:28 +0000 2018
+Tweet content: eating a snack #doritofingers
+------------------------
+
+User Command: node liri.js spotify-this-song this love 
+
+User Command: node liri.js spotify-this-song 
+
+User Command: node liri.js movie-this 
+
+ERROR: Retrieving OMDB entry -- nullUser Command: node liri.js my-tweets
+
+LIRI Response:
+
+------------------------
+User Tweets:
+------------------------
+
+Created on: Sun Feb 11 16:04:31 +0000 2018
+Tweet content: who likes ping pong? #letsplay
+------------------------
+Created on: Sun Feb 11 16:03:38 +0000 2018
+Tweet content: time for lunch #pizzagate
+------------------------
+Created on: Sun Feb 11 16:02:51 +0000 2018
+Tweet content: donde esta mi perro #wholetthedogout
+------------------------
+Created on: Sun Feb 11 16:02:28 +0000 2018
+Tweet content: coffee is life #basic
+------------------------
+Created on: Sun Feb 11 16:02:09 +0000 2018
+Tweet content: i have a cold #passthenyquil
+------------------------
+Created on: Sun Feb 11 16:01:50 +0000 2018
+Tweet content: tweet tweet #imabird
+------------------------
+Created on: Sun Feb 11 16:01:28 +0000 2018
+Tweet content: eating a snack #doritofingers
+------------------------
+
+User Command: node liri.js spotify-this-song 
+
+User Command: node liri.js spotify-this-song 
+
+User Command: node liri.js movie-this 
+
+ERROR: Retrieving OMDB entry -- null
